@@ -1,4 +1,4 @@
-# Mini-Projeto Avaliativo - Módulo / Semana (Turma T8)
+# Mini-Projeto Avaliativo - Módulo / Semana 7 (Turma T8)
 **Aluno:** Izack Jacob Nascimento Ribeiro Serra  
 **Curso:** Análise de Dados com Python (SCTEC)  
 
